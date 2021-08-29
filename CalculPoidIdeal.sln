@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculPoidIdeal", "CalculPoidIdeal\CalculPoidIdeal.csproj", "{BB0B86E8-E8CF-47B2-88B1-B5E7208BA7D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculPoidIdeal.Test", "CalculPoidIdeal.Test\CalculPoidIdeal.Test.csproj", "{EDB4B0EB-9C29-4767-8FE1-E8308FAA6ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0B86E8-E8CF-47B2-88B1-B5E7208BA7D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0B86E8-E8CF-47B2-88B1-B5E7208BA7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0B86E8-E8CF-47B2-88B1-B5E7208BA7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0B86E8-E8CF-47B2-88B1-B5E7208BA7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDB4B0EB-9C29-4767-8FE1-E8308FAA6ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB4B0EB-9C29-4767-8FE1-E8308FAA6ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB4B0EB-9C29-4767-8FE1-E8308FAA6ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB4B0EB-9C29-4767-8FE1-E8308FAA6ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2925DE9-248C-4DBA-93EE-0E51283615F6}
+	EndGlobalSection
+EndGlobal
